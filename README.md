@@ -22,8 +22,11 @@ Magic Square for n = 3
 Sum of each row or column: 15
 
 2 7 6
+
 9 5 1
+
 4 3 8
+
 
 ## Limitations
 
