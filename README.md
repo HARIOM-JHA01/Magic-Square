@@ -4,9 +4,9 @@ This Python program generates a magic square for a given odd number. A magic squ
 
 ## Usage
 
-1. Clone the repository or download the `magic_square.py` file.
+1. Clone the repository or download the `magicSquare.py` file.
 
-2. Open a terminal or command prompt and navigate to the directory where the `magic_square.py` file is located.
+2. Open a terminal or command prompt and navigate to the directory where the `magicSquare.py` file is located.
 
 3. Run the script by executing the following command:
 python magicSquare.py
